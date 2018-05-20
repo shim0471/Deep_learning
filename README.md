@@ -1,4 +1,4 @@
 # Deep_learning
-Instructions
+## Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
